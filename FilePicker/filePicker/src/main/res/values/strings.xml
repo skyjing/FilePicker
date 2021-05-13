@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">filePicker</string>
+    <string name="without_file">No file</string>
+    <string name="go_back">Back</string>
+    <string name="local_upload">Local selection</string>
+    <string name="upload">Determine</string>
+    <string name="tips_Storage_permissions">Please turn on read and write mobile storage permissions</string>
+    <string name="tips_No_file_selected">No file selected</string>
+</resources>

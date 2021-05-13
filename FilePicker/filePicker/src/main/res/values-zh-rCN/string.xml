@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">文件选择</string>
+    <string name="without_file">没有文件</string>
+    <string name="go_back">返回</string>
+    <string name="local_upload">本地选择</string>
+    <string name="upload">确定</string>
+    <string name="tips_Storage_permissions">请打开读写手机存储权限</string>
+    <string name="tips_No_file_selected">还未选择文件</string>
+</resources>
